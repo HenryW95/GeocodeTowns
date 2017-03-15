@@ -18,4 +18,4 @@ https://developers.google.com/maps/documentation/geocoding/?hl=en_US#api_key
 ![input](http://henrygeo.com/programming/images/SampleInput.png)
 
 ### Sample output CSV file:
-![output](http://henrygeo.com/programming/images/SampleOutput.png)
+![output](http://henrygeo.com/programming/images/SampleOut.png)
